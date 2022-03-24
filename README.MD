@@ -13,17 +13,17 @@ Atualmente a planilha é composta por 5 abas públicas, sendo elas e seus repect
 </p>
 
 
-* Professores (Nome, Código), onde deve ser cadastrado todos os professores, onde o campo código deve ser um identicador único que será utilizado posteriormente par relatórios.
+* Professores (Nome, Código), onde deve ser cadastrado todos os professores, em que o campo código deve ser um identicador único que será utilizado posteriormente por relatórios.
 
-* Turmas (CódigoDasTurmas, Seleção de Tipo), todas as turmas geridas devem ser lançadas nessa planilha, preferencialmente o campo CódigoDasTurmas deve ser o nome da turma sem espaços, pois o mesmo é utilizado para gerar as guias para cada turma e nos relatórios. O campo tipo está relacionado a modalidade do curso se é anual ou semestral, que implica diretamente no cálculo de encontros semais.
+* Turmas (CódigoDasTurmas, Seleção de Tipo), todas as turmas geridas devem ser lançadas nessa planilha, preferencialmente o campo CódigoDasTurmas deve ser o nome da turma sem espaços, pois ele é utilizado para gerar as guias para cada turma e nos relatórios. O campo tipo está relacionado a modalidade do curso se é anual ou semestral, que implica diretamente no cálculo de encontros semanais.
 
-* Disciplinas (Nome, Turma, Diciplina, C.H.), guia responsável por fazer relação entre as disciplinas, turma, carga horária e professores. Ela também contem os campos (Tipo, Encontros, Encontros Semanais e Aprsentação), que são gerados/calculados através das fórmulas.
+* Disciplinas (Nome, Turma, Diciplina, C.H.), guia responsável por fazer relação entre as disciplinas, turma, carga horária e professores. Ela também contém os campos (Tipo, Encontros, Encontros Semanais e Aprsentação), que são gerados/calculados através das fórmulas.
 
 * Relatório Professor (Seleção de Professor), por meio dessa guia é possível selecionar um professor e será gerado um relatório que permite checar a quantidade de encontros diários, semanais e se está acontecendo algum choque de horário.
 
 * Relatório Turma (Seleção de Turma), por meio dessa guia é possível selecionar uma turma e verificar a carga horária total, quantidade de encontros semanais e total.
 
-* O lançamento dos horários é lançado na guia de cada turma, onde através de filtros são carregados suas respectivas disciplinas. E os horários são lançados através de lista de seleções.
+* O lançamento dos horários é feito na guia de cada turma, onde através de filtros são carregados suas respectivas disciplinas. E os horários são lançados através de lista de seleções.
 
 
 ### ✅ 2.Utilizando a solução  
