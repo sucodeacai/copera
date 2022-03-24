@@ -27,7 +27,7 @@ Atualmente a planilha é composta por 5 abas públicas, sendo elas e seus repect
 
 
 ### ✅ 2.Utilizando a solução  
-* A solução foi utilizada e validada utilizando google sheets.
+* A solução foi utilizada e validada utilizando google sheets, logo todos os passos a seguir devem ser realizados utilizando ele.
 * Abrir o arquivo copera.xlsx e atualizar as abas: Professores, Turmas, Disciplinas.
 * Seguir intruções do item 3.
 * Ao executar as ações, será gerado o arquivo copera_processed.xlsx, que pega as disciplinas e turmas cadastradas e gera suas repesctivas abas preenchidas. 
