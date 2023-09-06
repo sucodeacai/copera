@@ -1,5 +1,5 @@
 <h4 align="center"> 
-	🚧 Em construção...  🚧
+	🚧 Em construção....  🚧
 </h4>
 <h1 align="center">COPERA - Construtor de Planilha de Gestão de Horários Acadêmicos</h1>
 
